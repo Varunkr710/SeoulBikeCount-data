@@ -1,0 +1,4 @@
+To predict bike rental counts and assist in decision-making, we developed a machine learning model that incorporates key variables such as temperature, humidity, and wind speed.
+This model effectively predicts bike rental demand under various conditions, allowing the business to anticipate changes and optimize operations accordingly. 
+By leveraging this model, the business can implement targeted strategies to increase bike rentals,
+such as promoting rentals during favorable weather conditions or adjusting operational hours based on temperature trends.
